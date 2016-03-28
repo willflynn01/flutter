@@ -1,0 +1,21 @@
+
+
+Started GET "/" for 50.181.248.6 at 2016-03-28 01:13:30 +0000
+Cannot render console from 50.181.248.6! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (4.9ms)
+Completed 200 OK in 61ms (Views: 42.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 50.181.248.6 at 2016-03-28 01:16:08 +0000
+Cannot render console from 50.181.248.6! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 50.181.248.6 at 2016-03-28 01:16:23 +0000
+Cannot render console from 50.181.248.6! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
